@@ -25,9 +25,9 @@
 }
 
 #newscard {
-  background: linear-gradient(-45deg, #d787eb, #36f0b8, #86d7f5, #5329b8);
+  background: linear-gradient(-45deg, #fd5c3f, #f6fa0b, #8cf844, #75efff);
   background-size: 400% 400%;
-  animation: gradient 15s ease infinite;
+  animation: gradient 5s ease infinite;
   height: 100vh;
 }
 
